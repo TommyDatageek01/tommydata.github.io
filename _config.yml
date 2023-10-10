@@ -1,0 +1,9 @@
+# Site settings
+title: Akinlosotu Tomiwa Portfolio
+author:
+  name: Akinlosotu Tomiwa
+  email: Archivehome@gmail.com
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
